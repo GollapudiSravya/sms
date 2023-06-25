@@ -11,7 +11,7 @@ db_config = {
     'database': 'your_database',
     'raise_on_warnings': True
 }
-
+#print('hello')
 # Home page
 @app.route('/')
 def index():
